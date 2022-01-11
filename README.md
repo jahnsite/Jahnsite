@@ -1,8 +1,8 @@
 ### Hello there, I am Jahnavi! 👋
 
 
-- 🔭 My interests lie in natural language processing and graphic design.
-- 🌱 I’m currently learning learning about implementing text generation models.
+- 🔭 My interests lie in product design and human computer interaction.
+- 🌱 I’m currently reading - About Face: The essentials of interaction design.
 - 📫 How to reach me: jahnavi649@gmail.com
 - 😄 Pronouns: she\her
 
